@@ -1,0 +1,83 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mayankmohak",
+      "name": "Mayank Mohak",
+      "avatar_url": "https://avatars.githubusercontent.com/u/63801800?v=4",
+      "profile": "https://mayankmohak.github.io/portfolio/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Anupam-Panwar",
+      "name": "Anupam Panwar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65714751?v=4",
+      "profile": "https://github.com/Anupam-Panwar",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "akshatvirmani",
+      "name": "Akshat Virmani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77536248?v=4",
+      "profile": "https://github.com/akshatvirmani",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "starrohan999",
+      "name": "Rohan Kumar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71714344?v=4",
+      "profile": "https://www.hackerrank.com/starrohan999",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "bhoskarpooja",
+      "name": "POOJA BHOSKAR ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72018117?v=4",
+      "profile": "https://github.com/bhoskarpooja",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "utkarsh1311",
+      "name": "Utkarsh Maurya",
+      "avatar_url": "https://avatars.githubusercontent.com/u/70108561?v=4",
+      "profile": "https://github.com/utkarsh1311",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "urvashiparashar",
+      "name": "urvashiparashar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66862837?v=4",
+      "profile": "https://github.com/urvashiparashar",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Mirage-UI",
+  "projectOwner": "ALPHAVIO",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
